@@ -5,7 +5,7 @@ The whole project is developed having intention to do master thesis which core t
 Technology used: React.js
 Folder: User_Interface
 
-For visualization, plotly.js is used/
+For visualization, plotly.js is used.
 
 ### Business Layer
 Technology used: Spring, pySpark
